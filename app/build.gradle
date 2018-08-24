@@ -185,7 +185,7 @@ dependencies {
     implementation 'me.relex:circleindicator:1.2.2@aar'
     // vision barcode scanner
     implementation 'com.journeyapps:zxing-android-embedded:3.6.0'
-    implementation files('libs/spice_security.jar')
+//    implementation files('libs/spice_security.jar')
     implementation('com.crashlytics.sdk.android:crashlytics:2.9.0@aar') {
         transitive = true;
     }
