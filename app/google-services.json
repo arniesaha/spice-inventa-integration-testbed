@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270252127587",
+    "firebase_url": "https://inventa-204107.firebaseio.com",
+    "project_id": "inventa-204107",
+    "storage_bucket": "inventa-204107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270252127587:android:858c582e37f29c9d",
+        "android_client_info": {
+          "package_name": "proto.inventa.cct.com.inventaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270252127587-ua7118jatmm0lre0k722fa2tjls27ig4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "proto.inventa.cct.com.inventaapp",
+            "certificate_hash": "3f46580335fe8be071b5bfb1fcb94c215d0fa991"
+          }
+        },
+        {
+          "client_id": "270252127587-r91gchio4dkbd73f7dqkg29lkraheo52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJzKBJPxMNaEtSW82xDAgpb2MZN_e3X1o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270252127587-r91gchio4dkbd73f7dqkg29lkraheo52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
